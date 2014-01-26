@@ -1,14 +1,8 @@
-/*
-Theme Name: Muzak
-Theme URI: http://www.cssigniter.com/tf/
-Author: the CSSIgniterVIP team
-Author URI: http://www.cssigniter.com/
-Description: Music theme for WordPress
-Tags: black, three-columns
-Version: 1.0
-License: GNU General Public License
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-*/
+/* Theme Name: Muzak */
+
+/* FONT SETTINGS */
+@font-face {font-family:"dotty";src:url("fonts/dotty_fold.eot?") format("eot"),url("fonts/dotty_fold.woff") format("woff"),url("fonts/dotty_fold.ttf") format("truetype"),url("fonts/dotty_fold.svg#DottyFold") format("svg");font-weight:normal;font-style:normal;}
+
 
 /* GLOBAL: #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
